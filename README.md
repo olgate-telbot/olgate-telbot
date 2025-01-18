@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Leute 👋
 
 <!--
 **olgate-telbot/olgate-telbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+nach dem ich gemerkt habe das mein Ex mich telefonisch ausspionieren wollte,
+haben wir ihm einen bloßstellenden Geist aufgedrückt - ein riesen Spaß Leute!
+Tja - wer anderen ein Grube gräbt fällt selbst hinein - so ist das nun mal.
+Wir wissen immer was er plant und können ihm dann ein Bein stellen.
